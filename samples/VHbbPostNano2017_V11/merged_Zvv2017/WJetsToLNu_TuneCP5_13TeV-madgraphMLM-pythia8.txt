@@ -1,0 +1,3 @@
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/e42272c56872aa9d718e32476d59badc32e9c80ac5173193c3fd3a5c/000000_000000/0000/tree_0.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/45aefcc7539d29152ce38b8bc949b73dd51b1e306ac76fc32250aec3/000000_000000/0000/tree_1.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/WJetsToLNu_TuneCP5_13TeV-madgraphMLM-pythia8/afb92438df0ed4ab766105863c0b1c024be8d3b7a34d0e7a02be469c/000000_000000/0000/tree_2.root

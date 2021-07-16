@@ -1,0 +1,2 @@
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/W1JetsToLNu_LHEWpT_100-150_TuneCP5_13TeV-amcnloFXFX-pythia8/1ad00db24435bc605cf69abc543d13d55f5fc5fc5ec10faad9d66070/000000_000000/0000/tree_0.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/W1JetsToLNu_LHEWpT_100-150_TuneCP5_13TeV-amcnloFXFX-pythia8/0643eb2c09d906262ffc2abc5ee8c3f6f3a38dc4793eb0bba174fd6f/000000_000000/0000/tree_1.root

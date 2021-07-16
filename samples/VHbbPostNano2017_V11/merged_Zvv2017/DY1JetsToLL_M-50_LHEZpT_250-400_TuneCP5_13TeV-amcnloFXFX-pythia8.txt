@@ -1,0 +1,13 @@
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//d94a7ba75df344b97044ad8594c0231060c3f2bc93c8bf54a1bdf042/000000_000000/0000/tree_0.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//0b7160abaeaaf035a7a4a4e20d51e30744c5ec210386924154b476a6/000000_000000/0000/tree_1.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//9f685a613aff201bbb6085213e7b97ad05d045c733ff9a9780c2260a/000000_000000/0000/tree_2.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//0827b897b37c6db26d88528d985589d463e260f4491ab9502d4249b4/000000_000000/0000/tree_3.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//43904941393bf46550acc9bceb6d60564aa15096255b2b9ec51f8ac6/000000_000000/0000/tree_4.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//fe519fcc2100409855215a1580aceadea80953eee2c2988d1b184535/000000_000000/0000/tree_5.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//14be5a4b1e488c2a69ce105a80e079aac8a717bc38f53d16925b240f/000000_000000/0000/tree_6.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//ae13d9c1cf7575529b202c7475b1cbff0d7700bdd50c20ec67591f1e/000000_000000/0000/tree_7.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//3f6a32aa9022a89968c9f78dddedc0716f57982d6f23c69c9b574b1b/000000_000000/0000/tree_8.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//4e133e19ee1defaaff18955f0933775ab676f203e23764924b896265/000000_000000/0000/tree_9.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//6e3a46468f7ece27e31912c1df8069fbc8eebdd4d58eb68a733023c5/000000_000000/0000/tree_10.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//f3d508352ebffcbd4bafe9b8d8fd1ee69af4b6ac3018a05e6a27080c/000000_000000/0000/tree_11.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DY1JetsToLL_M-50_LHEZpT_250-400_TuneCP5_13TeV-amcnloFXFX-pythia8//981d35b33580dad961700dd5249706f06b591b5132ccae156d4a3113/000000_000000/0000/tree_12.root

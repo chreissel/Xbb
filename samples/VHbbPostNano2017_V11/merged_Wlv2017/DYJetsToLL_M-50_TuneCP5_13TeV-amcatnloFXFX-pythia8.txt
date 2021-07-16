@@ -1,0 +1,11 @@
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/0107c92535e4ad8da888427d3d8cccd231562ebda7bb602c8fb49158/000000_000000/0000/tree_0.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/1b80540386aefa523d87e203d1ed4f8be0e0b693839fa0102c150645/000000_000000/0000/tree_1.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/ea7b639dcbcff3e782be7dad1dcf63d9699455629d02b4d0c5c8e6c0/000000_000000/0000/tree_2.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/e4628f7eb2da90df7c91a2d04a13f1378e2f8620438655f0d036e5b2/000000_000000/0000/tree_3.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/9a2faf9c543e1bdbbd4c055ab52075a297dde755ce5e5daf2fc97d12/000000_000000/0000/tree_4.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/cfdb0239f736a511aa25d523d5e726a3c3a137db10c0925f44e23831/000000_000000/0000/tree_5.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/d18947a20908dcbd39b23248c75b1bd6daa928bd10111beebc9723b5/000000_000000/0000/tree_6.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/c15337be99c352be99f1bda9c65c0c8e2428ea58a844951c56f07ec5/000000_000000/0000/tree_7.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/8ce490d88c6dc5dc9c926dfea39f8c9e21c874579526d13f81db512b/000000_000000/0000/tree_8.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/a9bff35ec587c6022837b6b0d2470ec833775f497c455619bddddb3d/000000_000000/0000/tree_9.root
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11/DYJetsToLL_M-50_TuneCP5_13TeV-amcatnloFXFX-pythia8/41b0751953cb49f6bd8c409da293dca3dbd5ce96bdcd869497daf866/000000_000000/0000/tree_10.root

@@ -1,0 +1,1 @@
+/store/group/phys_higgs/hbb/ntuples/VHbbPostNano/2017/V11-NLO_EventLumi/W1JetsToLNu_LHEWpT_400-inf_TuneCP5_13TeV-amcnloFXFX-pythia8//1df8a68cc3e2496ebcead09ba35ed0dec0e477b1b6a803a4f52bae68/000000_000000/0000/tree_0.root
